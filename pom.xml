@@ -48,7 +48,7 @@
         <shiro.version>1.7.1</shiro.version>
         <liquibase.version>3.5.5</liquibase.version>
         <snakeyaml.version>1.17</snakeyaml.version>
-        <derby.version>10.11.1.1</derby.version>
+        <derby.version>10.14.2.0</derby.version>
         <postgresql.version>42.2.10</postgresql.version>
         <beans.version>1.0.0</beans.version>
         <jackson.version>2.9.10</jackson.version>
