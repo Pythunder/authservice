@@ -10,7 +10,7 @@
         "react-router-dom": "^5.1.2",
         "react-scripts": "^3.4.3",
         "@reduxjs/toolkit": "^1.2.5",
-        "terser": "^3.14.1"
+        "terser": "^4.8.1"
     },
     "scripts": {
         "start": "react-scripts start",
